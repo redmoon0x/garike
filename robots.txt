@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://deviprasadshetty-dev.github.io/garike/sitemap.xml
+Sitemap: https://redmoon0x.github.io/garike/sitemap.xml
 
 # Crawl delay for polite crawling
 Crawl-delay: 10
